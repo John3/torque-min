@@ -1,0 +1,2 @@
+enableWinConsole( true );
+function onExit() {}
