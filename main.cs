@@ -1,2 +1,5 @@
-enableWinConsole( true );
-function onExit() {}
+enableWinConsole(1);
+
+function onExit()
+{
+}
